@@ -1,1 +1,1 @@
-owners_list = ["pineapple_cookie_"]
+owners_list = ["hacso"]
